@@ -1,0 +1,7 @@
+C:\Users\17472\source\repos\StudentReports\StudentReports\bin\Debug\StudentReports.exe.config
+C:\Users\17472\source\repos\StudentReports\StudentReports\bin\Debug\StudentReports.exe
+C:\Users\17472\source\repos\StudentReports\StudentReports\bin\Debug\StudentReports.pdb
+C:\Users\17472\source\repos\StudentReports\StudentReports\obj\Debug\StudentReports.csprojAssemblyReference.cache
+C:\Users\17472\source\repos\StudentReports\StudentReports\obj\Debug\StudentReports.csproj.CoreCompileInputs.cache
+C:\Users\17472\source\repos\StudentReports\StudentReports\obj\Debug\StudentReports.exe
+C:\Users\17472\source\repos\StudentReports\StudentReports\obj\Debug\StudentReports.pdb
